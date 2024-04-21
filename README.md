@@ -1,12 +1,20 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot 2024-04-21 151923](https://github.com/mackah2109/Stackoverflow_clone/assets/104051228/dba4ab0b-1953-4d8d-828f-326e9359d808)
+
+ ![Screenshot 2024-04-21 151932](https://github.com/mackah2109/Stackoverflow_clone/assets/104051228/1d3fe599-7c0b-4d23-baab-334025cf7706)
+
+ ![Screenshot 2024-04-21 151942](https://github.com/mackah2109/Stackoverflow_clone/assets/104051228/f8cddd37-eadc-4d4e-a76f-9fb6ae674cf2)
+
+This project was
+bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
 
 ### `npm start`
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
